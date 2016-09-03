@@ -1,0 +1,1530 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"user",
+				"userAddedCPE"
+			],
+			[
+				"tem",
+				"templateError"
+			],
+			[
+				"inel",
+				"ineligibleCount"
+			],
+			[
+				"associated",
+				"associatedProductInstanceId"
+			],
+			[
+				"unma",
+				"UNMANAGED"
+			],
+			[
+				"basketitem",
+				"basketItemID"
+			],
+			[
+				"commit",
+				"commitTransaction"
+			],
+			[
+				"roll",
+				"rollbackTransaction"
+			],
+			[
+				"bill",
+				"BILLING_METHOD"
+			],
+			[
+				"Loc",
+				"Local-to-Local"
+			],
+			[
+				"co",
+				"configVariables"
+			],
+			[
+				"mainte",
+				"maintenanceRequired"
+			],
+			[
+				"install",
+				"installationRequired"
+			],
+			[
+				"stat",
+				"STATUS_QUO_RETRIEVED"
+			],
+			[
+				"Retr",
+				"RETRIEVED"
+			],
+			[
+				"icl",
+				"isCLEChangedForL2LSites"
+			],
+			[
+				"transacti",
+				"transaction_type"
+			],
+			[
+				"trans",
+				"transactionType"
+			],
+			[
+				"premi",
+				"premisysInterfaceDoc"
+			],
+			[
+				"contractTy",
+				"contractType"
+			],
+			[
+				"vleArr",
+				"vleArray"
+			],
+			[
+				"valid",
+				"validateDs"
+			],
+			[
+				"vai",
+				"validateDs"
+			],
+			[
+				"prem",
+				"premisysUpdateQuoteDS"
+			],
+			[
+				"CPEClea",
+				"CPECleanUpAtSite"
+			],
+			[
+				"cpeSite",
+				"cpeSiteId"
+			],
+			[
+				"CPE",
+				"CPE001"
+			],
+			[
+				"err",
+				"errorMessage"
+			],
+			[
+				"site",
+				"siteErrorMessages"
+			],
+			[
+				"siteI",
+				"siteInstanceId"
+			],
+			[
+				"cPI",
+				"cpeProductItems"
+			],
+			[
+				"vzl",
+				"vzLegalEntityCodRcvd"
+			],
+			[
+				"vzlec",
+				"vzLegalEntityCodeSent"
+			],
+			[
+				"parent",
+				"parentCPEItemIds"
+			],
+			[
+				"isch",
+				"isCharactersticsMatching"
+			],
+			[
+				"ak",
+				"APIKey"
+			],
+			[
+				"AK",
+				"APIKey"
+			],
+			[
+				"subpr",
+				"subprocess"
+			],
+			[
+				"sproc",
+				"subprocess"
+			],
+			[
+				"statu",
+				"statusCheckCount"
+			],
+			[
+				"extends",
+				"extends_err"
+			],
+			[
+				"sql",
+				"sql_element"
+			],
+			[
+				"xl",
+				"xlProductCode"
+			],
+			[
+				"gate",
+				"gatewayItem"
+			],
+			[
+				"for",
+				"for	for (…) {…}"
+			],
+			[
+				"assoc",
+				"associatedProductId"
+			],
+			[
+				"cwt_",
+				"cwt_sr_association"
+			],
+			[
+				"cwt_sr_entit",
+				"cwt_sr_entity"
+			],
+			[
+				"pri",
+				"print_cpu"
+			],
+			[
+				"if",
+				"ifmain	if __name__ == '__main__'"
+			],
+			[
+				"_",
+				"__init__"
+			],
+			[
+				"class",
+				"classes"
+			],
+			[
+				"s",
+				"section"
+			],
+			[
+				"inc",
+				"include	include: $self"
+			],
+			[
+				"beg",
+				"beginCaptures	beginCaptures:"
+			],
+			[
+				"depende",
+				"dependentFeatureMap"
+			],
+			[
+				"depend",
+				"dependentFeatureList"
+			],
+			[
+				"anch",
+				"anchorFeatureList"
+			],
+			[
+				"base",
+				"baseTarService"
+			],
+			[
+				"tarServi",
+				"tarServiceArr"
+			],
+			[
+				"tarSer",
+				"tarServiceArr"
+			],
+			[
+				"ti",
+				"tickets"
+			],
+			[
+				"spec",
+				"specification"
+			],
+			[
+				"prod",
+				"productItem"
+			],
+			[
+				"getItem",
+				"getItemByCode"
+			],
+			[
+				"this",
+				"this_is_an_integer_variable"
+			],
+			[
+				"product",
+				"productItems"
+			],
+			[
+				"process",
+				"processSiteIds"
+			],
+			[
+				"Au",
+				"Auto-Awaiting"
+			],
+			[
+				"tarLoc",
+				"tarLocationArr"
+			],
+			[
+				"Ad",
+				"AddressLine1"
+			],
+			[
+				"bgProc",
+				"bgProcessErrorDoc"
+			],
+			[
+				"opportuni",
+				"opportunityId"
+			],
+			[
+				"tarP",
+				"tarProduct"
+			],
+			[
+				"serviceRes",
+				"serviceResponse"
+			],
+			[
+				"proce",
+				"processDocument"
+			],
+			[
+				"pPr",
+				"pqrProd"
+			],
+			[
+				"sub",
+				"submittedMap"
+			],
+			[
+				"bulp",
+				"bulkUploadData"
+			],
+			[
+				"e2ei",
+				"e2eiServiceRequest"
+			],
+			[
+				"corr",
+				"corridor_Z"
+			],
+			[
+				"SP_",
+				"SP_PIP_SCI_PARTNER_LOCATION"
+			],
+			[
+				"port",
+				"portTypeArr"
+			],
+			[
+				"Speci",
+				"Specifications"
+			],
+			[
+				"Contr",
+				"Contract"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "lexer.py",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/v527695/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+			"settings":
+			{
+				"buffer_size": 559,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/Users/v527695/AppData/Roaming/Sublime Text 2/Packages/User/Default (Windows).sublime-keymap",
+			"settings":
+			{
+				"buffer_size": 2194,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/Users/v527695/Sublime Text 3/Data/Packages/JavaScript/syntax_test_json.json",
+			"settings":
+			{
+				"buffer_size": 1177,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/Users/v527695/AppData/Roaming/Sublime Text 2/Packages/PackageDev/Syntax Definitions/Sublime Text Syntax Def (YAML).tmLanguage",
+			"settings":
+			{
+				"buffer_size": 37869,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/Users/v527695/AppData/Roaming/Sublime Text 2/Packages/PackageDev/Syntax Definitions/Sublime Text Syntax Def (YAML).YAML-tmLanguage",
+			"settings":
+			{
+				"buffer_size": 18464,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/v527695/Sublime Text 3/Data/Packages/Color Scheme - Default/Blackbird.tmTheme",
+			"settings":
+			{
+				"buffer_size": 12562,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "var ord = theApp.getCurrentApplication().orderingPage.order;\nvar actionAdded = custOrder.constants().ActionState.ADDED;\nvar actionRemoved = custOrder.constants().ActionState.REMOVED;\nif (ord == null)\n    return;\nvar basket = ord.getOrderBasket();\nif (basket == null)\n    return;\n\nvar length = this.selectedFeaturesList.length;\nvar existingCPEs = {};\nfor (var i = 0; i < this.selectedFeaturesList.length;) {\n    var cpeDetailsDoc = this.selectedFeaturesList[i];\n    var cpeBasketItem = basket.getItemById(cpeDetailsDoc.childCPEItemId);\n    if (cpeBasketItem != null) {\n        if (cpeBasketItem.getActionState(basket) == actionAdded) {\n            custOrder.dataModel.basketItemExt.removeItem(basket, cpeBasketItem, true);\n        } else {\n            cpeBasketItem.setActionState(actionRemoved, basket);\n            existingCPEs[cpeBasketItem.parent.id] = cpeBasketItem.parent;\n        }\n    }\n    this.selectedFeaturesList.remove(cpeDetailsDoc);\n}\n\nvar parentCpes = {};\nfor (var key in existingCPEs) {\n    if (areChildrenRemoved(existingCPEs[key], basket)) {\n        existingCPEs[key].setActionState(actionRemoved, basket);\n        if ('Y' != existingCPEs[key].ESP_IS_PARENT) {\n            parentCpes[existingCPEs[key].id] = existingCPEs[key];\n        }\n    }\n}\n\nvar duplicateParent = {};\nfor (var key in parentCpes) {\n    var relCPEs = parentCpes[key].getBasketItemsByRelation(basket, \"HPR_CPE\", true);\n    for (var index = 0; index < relCPEs.length; index++) {\n        var dupCPE = duplicateParent[relCPEs[index].id];\n        if (dupCPE) {\n            continue;\n        } else {\n            duplicateParent[relCPEs[index].id] = relCPEs[index];\n            if (areChildrenRemoved(relCPEs[index], basket)) {\n                relCPEs[index].setActionState(actionRemoved, basket);\n            }\n        }\n    }\n}\n\nbasket.storeInDB();\nthis.onClickFilter();\nif (length > this.selectedFeaturesList.length) {\n    this.parent.owner.parent.cpeQuoteDetailsTree.refreshNode(true, true);\n}\n\nfunction areChildrenRemoved(prCPE, basket) {\n\n    var children = prCPE.getAllChildren();\n    var index = 0;\n    for (; index < children.length; index++) {\n        if (children[index].getActionState(basket) != actionRemoved) break;\n    }\n    if (index == children.length) {\n        var relCPEs = prCPE.getBasketItemsByRelation(basket, \"HPR_CPE\", false);\n        var cInd = 0;\n        if (relCPEs.length == 0)\n            return true;\n        for (; cInd < relCPEs.length; cInd++) {\n            if (relCPEs[cInd].getActionState(basket) != actionRemoved) {\n                break;\n            }\n        }\n        return cInd == relCPEs.length;\n    } else {\n        return false;\n    }\n}",
+			"settings":
+			{
+				"buffer_size": 2662,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/v527695/Sublime Text 3/Data/Packages/Python/Python.sublime-build",
+			"settings":
+			{
+				"buffer_size": 273,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "notes.txt",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 380.0,
+		"selected_items":
+		[
+			[
+				"js",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"yam",
+				"PackageDev: Convert to YAML and Rearrange Syntax Definition"
+			],
+			[
+				"sublime",
+				"Set Syntax: Sublime Text Syntax Def (YAML)"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"list pac",
+				"Package Control: List Packages"
+			],
+			[
+				"packag",
+				"Package Control: List Packages"
+			],
+			[
+				"yaml",
+				"PackageDev: Convert to YAML and Rearrange Syntax Definition"
+			],
+			[
+				"python",
+				"Set Syntax: Python"
+			],
+			[
+				"plain",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"disable",
+				"Package Control: Disable Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"text",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"compa",
+				"Compare with..."
+			],
+			[
+				"compare",
+				"Compare with..."
+			],
+			[
+				"listp",
+				"Package Control: List Packages"
+			],
+			[
+				"list pa",
+				"Package Control: List Packages"
+			],
+			[
+				"mark",
+				"Bookmarks: Clear All"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"package",
+				"Package Control: Remove Package"
+			],
+			[
+				"beaut",
+				"Javascript Beautify"
+			],
+			[
+				"quick",
+				"Git: Quick Commit"
+			],
+			[
+				"git status",
+				"Git: Status"
+			],
+			[
+				"git",
+				"Git: Commit"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Enable Package"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"aaa",
+				"z:AAAPackageDev: Convert to YAML and Rearrange Syntax Definition"
+			],
+			[
+				"spac",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"findke",
+				"FindKeyConflicts: All Conflicts"
+			],
+			[
+				"indent",
+				"Auto indent"
+			],
+			[
+				"plugin	",
+				"z:AAAPackageDev: New Plugin"
+			],
+			[
+				"plugin",
+				"z:AAAPackageDev: New Plugin"
+			],
+			[
+				"xml",
+				"Indent XML"
+			],
+			[
+				"snipp",
+				"z:AAAPackageDev: New Raw Snippet"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			],
+			[
+				"ya",
+				"z:AAAPackageDev: Convert to YAML and Rearrange Syntax Definition"
+			],
+			[
+				"new snip",
+				"z:AAAPackageDev: New Raw Snippet"
+			],
+			[
+				"new synt",
+				"z:AAAPackageDev: New YAML Syntax Definition"
+			],
+			[
+				"log",
+				"Log: Format"
+			],
+			[
+				"Package Control: up",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"aaap",
+				"z:AAAPackageDev: New Syntax Definition"
+			],
+			[
+				"Package Control: disc",
+				"Package Control: Discover Packages"
+			],
+			[
+				"reg re",
+				"Reg Replace: Clear Highlights"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"x",
+				"XML Lint: Format"
+			],
+			[
+				"xmll",
+				"XML Lint: Format"
+			],
+			[
+				"pcin",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: inst",
+				"Package Control: Install Package"
+			],
+			[
+				"pc in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: insta",
+				"Package Control: Install Package"
+			],
+			[
+				"sintax",
+				"Set Syntax: Sublime Text Syntax Definition"
+			],
+			[
+				"sort",
+				"Sort Lines"
+			],
+			[
+				"tabs",
+				"View: Toggle Tabs"
+			],
+			[
+				"upp",
+				"Convert Case: Upper Case"
+			],
+			[
+				"space",
+				"Indentation: Convert to Spaces"
+			]
+		],
+		"width": 480.0
+	},
+	"console":
+	{
+		"height": 146.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/v527695/AppData/Roaming/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/v527695/AppData/Roaming/Sublime Text 2/Packages/Color Scheme - Default/Blackbird.tmTheme",
+		"/C/Users/v527695/Documents/SVN/trunk/Ordering/metadata/svc/cpe/ui_cpeConfigureUI.xml",
+		"/C/Users/v527695/Documents/SVN/trunk/Ordering/metadata/svc/cpe/ui_cpeServicesUI.xml",
+		"/C/Users/v527695/Documents/SVN/trunk/Ordering/metadata/svc/cpe/ui_cpeAdditionalConfigUI.xml",
+		"/C/Users/v527695/Documents/SVN/trunk/Ordering/metadata/support/tools/mns_cpe/ui_testDeleteTimingsUI.xml",
+		"/C/Users/v527695/Documents/SVN/trunk/Ordering/metadata/svc/cpe/findScript_cleDetailFinder.xml",
+		"/C/Users/v527695/AppData/Roaming/Sublime Text 2/Packages/XML/XML.YAML-tmLanguage",
+		"/C/Users/v527695/AppData/Roaming/Sublime Text 2/Packages/XML/XML.tmLanguage",
+		"/C/Users/v527695/AppData/Local/Microsoft/Windows/Temporary Internet Files/Content.Outlook/SP5J32T3/doc_checkBoxIteratorDoc.xml",
+		"/C/Users/v527695/Documents/SVN/PQ16AugRel/Ordering/metadata/stub/concurrencyTest/proc_addDeleteOrderItem.xml",
+		"/C/Users/v527695/Documents/SVN/PQ16AugRel/Ordering/metadata/stub/concurrencyTest/script_testConcurrentOrderAdd.xml",
+		"/C/Users/v527695/Documents/SVN/trunk/Ordering/metadata/svc/cpe/ui_cpePriceImpactUI.xml",
+		"/C/Users/v527695/Documents/SVN/trunk/Ordering/metadata/core/ui_cwSimulator.xml",
+		"/C/Users/v527695/Documents/SVN/PQ16AugRel/Ordering/metadata/stub/concurrencyTest/proc_addDeleteOrder.xml",
+		"/C/Users/v527695/Documents/SVN/PQ16AugRel/Ordering/metadata/stub/concurrencyTest/proc_addOrderItem.xml",
+		"/C/Users/v527695/Documents/SVN/PQ16AugRel/Ordering/metadata/stub/concurrencyTest/proc_createOrder.xml",
+		"/C/strawberry/README.txt",
+		"/C/Users/v527695/AppData/Roaming/Sublime Text 2/Packages/Perl/Perl.sublime-build",
+		"/C/Users/v527695/Documents/SVN/PQ16AugRel/Ordering/metadata/svc/cpe/cpeTemplate/script_getTemplateRetrievalStatusMessage.xml",
+		"/C/Users/v527695/Documents/SVN/PQ16AugRel/Ordering/metadata/svc/cpe/ui_cpePriceImpactUI.xml",
+		"/C/Users/v527695/OrderCare/designer/env/log/logFile.2016-07-27.log",
+		"/C/Users/v527695/AppData/Local/Temp/Rar$DIa0.438/Guide.txt",
+		"/C/Users/v527695/Documents/SVN/trunk/Ordering/metadata/stub/concurrencyTest/proc_addOrderItem.xml",
+		"/C/Users/v527695/Documents/SVN/trunk/Ordering/metadata/stub/concurrencyTest/proc_createOrder.xml",
+		"/C/Users/v527695/Documents/SVN/trunk/Ordering/metadata/stub/concurrencyTest/script_testConcurrentOrderAdd.xml",
+		"/C/Users/v527695/Documents/SVN/trunk/Ordering/metadata/svc/cpe/script_processParallelBatchPermisysResponse.xml",
+		"/C/Users/v527695/Documents/SVN/trunk/Ordering/metadata/custOrder/dataModel/doc_contactRoleDoc.xml",
+		"/C/Python27/Lib/site-packages/regetron/engine.py",
+		"/C/Python27/Scripts/regetron-cmd.py",
+		"/C/Users/v527695/AppData/Local/Temp/Rar$DIa0.874/Import_command.txt",
+		"/C/Users/v527695/Documents/SVN/trunk/Ordering/metadata/custOrder/dataModel/doc_contactDoc.xml",
+		"/C/Users/v527695/Documents/SVN/trunk/Ordering/metadata/e2ei/external/script_validateContacts.xml",
+		"/C/Users/v527695/Documents/SVN/trunk/Ordering/metadata/usap/premisys/script_savePremiSysTemplateListToCWBasket.xml",
+		"/C/Users/v527695/Documents/SVN/trunk/Ordering/metadata/svc/cpe/script_cpeTemplateRefresh.xml",
+		"/C/Users/v527695/Documents/SVN/uno_catalogdata/VZCatalogData/inbound/CatalogAutomation/Aug-2016/DEV_controlFile/01386-DSP-2-EKYVW-72-CPE-EXT.txt",
+		"/C/Users/v527695/Documents/SVN/uno_db/Database/DraftSQL/add_tool/2016aug/cw_order/2016Aug-xxx-DSP-DML-EKYVW-21.sql",
+		"/C/Users/v527695/Documents/SVN/uno_catalogdata/VZCatalogData/inbound/CatalogAutomation/Aug-2016/DEV_controlFile/01385-DSP-2-PRJ_VESEPIC166.txt",
+		"/C/Users/v527695/Desktop/exportcpetemplate.xml",
+		"/C/Users/v527695/Documents/SVN/trunk/Ordering/metadata/svc/cpe/cpeTemplate/script_onChangeOfProductTemplateParameters.xml",
+		"/C/Users/v527695/Documents/wifi cpe profile - ascii.txt",
+		"/C/Users/v527695/Desktop/EXT_CPE_TEMPLATE - exportedCatalog.xml",
+		"/C/Users/v527695/Desktop/CPE Template - exportedCatalog.xml",
+		"/C/Users/v527695/Desktop/time codes.txt",
+		"/C/Users/v527695/Documents/SVN/uno_db/Database/DraftSQL/add_tool/2016mar/cw_order/2016Mar-xxx-DSP-DDL-script_name.sql",
+		"/C/Users/v527695/Documents/SVN/trunk/Ordering/metadata/svc/cpe/proc_cpeBasketRefreshProcess.xml",
+		"/C/Users/v527695/Documents/SVN/trunk/Ordering/metadata/svc/cpe/proc_gcaProcess.xml",
+		"/C/Users/v527695/Documents/SVN/trunk/Ordering/metadata/common/script_logError.xml",
+		"/C/Users/v527695/Documents/SVN/trunk/Ordering/metadata/svc/cpe/ui_cpeSummaryUI.xml",
+		"/C/ConceptWave/DDL/CW.sql",
+		"/C/ConceptWave/DDL/prepare50db.sql",
+		"/C/Users/v527695/Documents/SVN/PQ16MayJuneRel/Ordering/metadata/common/script_logError.xml",
+		"/C/Users/v527695/Documents/SVN/trunk/Ordering/metadata/svc/cpe/script_updateUniqueTransLogs.xml",
+		"/C/Users/v527695/Documents/SVN/trunk/Ordering/metadata/svc/gps/comm/ui_genericUI.xml",
+		"/C/Users/v527695/Documents/SVN/PQ16MayJuneRel/Ordering/metadata/svc/cpe/ui_cpeSummaryUI.xml",
+		"/C/Users/v527695/Documents/SVN/trunk/Ordering/metadata/svc/cpe/doc_premisysTransLogsDoc.xml",
+		"/C/Users/v527695/Documents/SVN/PQ16MayJuneRel/Ordering/metadata/svc/cpe/script_getSolutionIdFromInstanceId.xml",
+		"/C/Users/v527695/Documents/SVN/CW14MarMinor/Ordering/metadata/svc/cpe/script_getVleNameByVleId.xml",
+		"/C/Users/v527695/Documents/SVN/CW14MarMinor/Ordering/metadata/common/script_getOldFashionedVleDocByVleId.xml",
+		"/C/Users/v527695/Documents/SVN/trunk/Ordering/metadata/svc/cpe/script_readCPEQuoteDoc.xml",
+		"/C/Users/v527695/Documents/SVN/CW14MarMinor/Ordering/metadata/svc/cpe/script_getCPEConfigurationForPreConfigTemplate.xml",
+		"/C/Users/v527695/Desktop/template response.xml",
+		"/C/Users/v527695/Documents/SVN/CW14MarMinor/Ordering/metadata/aaa/script_errorCaller.xml",
+		"/C/Users/v527695/Documents/SVN/CW14MarMinor/Ordering/metadata/svc/cpe/script_constants.xml",
+		"/C/Users/v527695/Documents/SVN/CW14MarMinor/Ordering/metadata/svc/cpe/script_MACDPremisysResponseProcess.xml",
+		"/C/Users/v527695/Documents/SVN/CW14FebMajor/metadata/svc/accessNew/script_removeCameoAsyncResponse.xml",
+		"/C/Users/v527695/Documents/SVN/CW14FebMajor/metadata/svc/accessNew/script_product_refresh.xml",
+		"/C/Users/v527695/Documents/SVN/CW14FebMajor/metadata/usec/scripts/script_getCountryVLEAvailability.xml",
+		"/C/Users/v527695/Documents/SVN/CW14FebMajor/metadata/svc/mns/script_validateBulkOrder.xml",
+		"/C/Users/v527695/Documents/SVN/CW14FebMajor/metadata/core/proc_refreshAccessPhase.xml",
+		"/C/Users/v527695/Documents/SVN/CW14MarMinor/Ordering/metadata/svc/cpe/ui_cpeConfigureUI.xml",
+		"/C/Users/v527695/Documents/SVN/CW14FebMajor/metadata/core/proc_asyncRefreshProcess.xml",
+		"/C/Users/v527695/Documents/SVN/CW14FebMajor/metadata/svc/accessNew/script_getCurrentTransactionId.xml",
+		"/C/Users/v527695/Documents/SVN/CW14FebMajor/metadata/svc/accessNew/script_getAccessRecommendationRequest.xml",
+		"/C/Users/v527695/Documents/SVN/CW14FebMajor/metadata/svc/accessNew/script_setStatusInToBasket.xml",
+		"/C/Users/v527695/Documents/SVN/CW14FebMajor/metadata/svc/accessNew/script_insertTransactionId.xml",
+		"/C/Users/v527695/Documents/SVN/CW14MarMinor/Ordering/metadata/svc/accessNew/script_validateExistingCameoRes.xml",
+		"/C/Users/v527695/AppData/Local/Microsoft/Windows/Temporary Internet Files/Content.Outlook/SP5J32T3/Sales_srv_05_TD-1.txt",
+		"/C/Users/v527695/Documents/SVN/CW14MarMinor/Ordering/metadata/svc/cpe/ui_cpeSummaryUI.xml",
+		"/C/Users/v527695/Documents/SVN/CW14MarMinor/Ordering/metadata/svc/cpe/script_cleanUpCPEPricingDataNew.xml",
+		"/C/Users/v527695/Documents/SVN/CW14MarMinor/Ordering/metadata/svc/cpe/ui_cpePriceImpactUI.xml",
+		"/C/Users/v527695/Documents/SVN/CW14MarMinor/Ordering/metadata/svc/cpe/script_ESPBackFeedProcessScript.xml",
+		"/C/Users/v527695/Documents/SVN/CW14MarMinor/Ordering/metadata/svc/cpe/script_budgetaryQuoteType.xml",
+		"/C/Users/v527695/Documents/SVN/CW14MarMinor/Ordering/metadata/svc/cpe/script_applyGCARulesV2.xml",
+		"/C/Users/v527695/Documents/SVN/CW14MarMinor/Ordering/metadata/svc/cpe/script_cleanUpCPEPricingData.xml",
+		"/C/Users/v527695/Documents/SVN/CW14FebMajor/metadata/e2ei/lynx/mto/proc_mtoProcess.xml",
+		"/C/Users/v527695/Documents/SVN/CW14MarMinor/Ordering/metadata/svc/cpe/cpeTemplate/doc_genericTemplateParameterDoc.xml",
+		"/C/Users/v527695/Documents/SVN/CW14MarMinor/Ordering/metadata/svc/cpe/cpeTemplate/findScript_parameterListFinder.xml",
+		"/C/Users/v527695/Documents/Scratch/worksheet3.js",
+		"/C/Users/v527695/Documents/SVN/CW14MarMinor/Ordering/metadata/svc/cpe/findScript_vleDetailsScriptFinder.xml",
+		"/C/Users/v527695/Documents/SVN/CW14FebMajor/metadata/e2ei/external/findSql_eBondGetInputOutputXMLFinder.xml",
+		"/C/Users/v527695/Documents/SVN/trunk/Ordering/metadata/svc/cpe/cpeTemplate/findScript_cpeSummaryTemplateFinder.xml",
+		"/C/Users/v527695/Documents/SVN/trunk/Ordering/metadata/svc/cpe/findScript_childCPEFinder.xml",
+		"/C/Users/v527695/Documents/Scratch/worksheet.js",
+		"/C/Users/v527695/Documents/SVN/trunk/Ordering/metadata/svc/cpe/findScript_vleDetailsScriptFinder.xml",
+		"/C/Users/v527695/OrderCare/designer/env/log/logFile.2016-03-07.log",
+		"/C/Users/v527695/Documents/SVN/trunk/Ordering/metadata/aaa/script_tooLongStringTest.xml",
+		"/C/Users/v527695/Documents/SVN/trunk/Ordering/metadata/aaa/script_sort.xml",
+		"/C/Users/v527695/Documents/SVN/trunk/Ordering/metadata/aaa/script_orderItemsTest.xml",
+		"/C/Users/v527695/Documents/SVN/trunk/Ordering/metadata/aaa/script_hashmapTest.xml",
+		"/C/Users/v527695/Documents/SVN/trunk/Ordering/metadata/aaa/script_dsTest.xml",
+		"/C/Users/v527695/Documents/SVN/trunk/Ordering/metadata/aaa/script_dolTest.xml",
+		"/C/Users/v527695/Documents/SVN/trunk/Ordering/metadata/aaa/script_customErrorTest.xml",
+		"/C/Users/v527695/Documents/SVN/trunk/Ordering/metadata/aaa/script_CPEError.xml",
+		"/C/Users/v527695/Documents/SVN/trunk/Ordering/metadata/aaa/script_callOverloadedFunction.xml",
+		"/C/Users/v527695/Documents/SVN/trunk/Ordering/metadata/aaa/doc_DELETEME.xml",
+		"/C/Users/v527695/Documents/SVN/trunk/Ordering/metadata/svc/vce/doc_vceTNConfigDoc.xml",
+		"/C/Users/v527695/Documents/SVN/trunk/Ordering/metadata/svc/vce/doc_voipTNConfigDoc.xml",
+		"/C/Users/v527695/Documents/SVN/trunk/Ordering/metadata/svc/cpe/script_getUniqueActiveTransLog.xml",
+		"/C/Users/v527695/Documents/SVN/CW14MarMinor/Ordering/metadata/svc/cpe/script_getUniqueActiveTransLog.xml",
+		"/C/Users/v527695/Documents/SVN/trunk/Ordering/metadata/svc/cpe/doc_vleDetailsDoc.xml",
+		"/C/Users/v527695/Documents/SVN/trunk/Ordering/metadata/svc/cpe/doc_cpeSiteProfileDoc.xml",
+		"/C/Users/v527695/Documents/SVN/trunk/Ordering/metadata/svc/cpe/doc_cpeSiteProfileAuditOutputDoc.xml",
+		"/C/Users/v527695/OrderCare/designer/env/setvar.cmd",
+		"/C/Users/v527695/Documents/SVN/uno_db/Database/SQL/add_tool/2016mar/cw_order/2016Mar-006-DSP-DDL-create_ext_prem_trans_data.sql",
+		"/C/Users/v527695/Documents/SVN/uno_db/Database/DraftSQL/add_tool/2016mar/cw_order/2016Mar-xxx-DSP-DDL-create_ext_prem_trans_data.sql",
+		"/C/Users/v527695/Documents/SVN/uno_db/Database/DraftSQL/Ordering/2015Dec/2015Dec-006-DSP-DDL-CREATE_UNO_VRDMOBILE_RULES.sql",
+		"/C/Users/v527695/Documents/SVN/trunk/Ordering/metadata/fix_sql.log",
+		"/C/Users/v527695/Documents/SVN/trunk/Ordering/metadata/fix_sql.py",
+		"/C/Users/v527695/Documents/SVN/uno_db/Database/DraftSQL/Ordering/2016Jan/2016Jan-002-DSP-DML_MOB_CONTRACT_MILESTONES.sql",
+		"/C/Users/v527695/Documents/SVN/uno_db/Database/DraftSQL/Ordering/readme24May2012.txt",
+		"/C/Users/v527695/Documents/SVN/uno_db/Database/format",
+		"/C/Users/v527695/Documents/SVN/uno_db/Database/README.txt",
+		"/C/Users/v527695/Documents/SVN/trunk/Ordering/resources/css/verizon.css",
+		"/C/Users/v527695/Documents/SVN/trunk/Ordering/metadata/svc/cpe/doc_cleSelectDoc.xml",
+		"/C/Users/v527695/AppData/Local/Microsoft/Windows/Temporary Internet Files/Content.Outlook/SP5J32T3/ui_mnsBaseUI.xml",
+		"/C/Users/v527695/AppData/Roaming/Sublime Text 2/Packages/Default/Default (Windows).sublime-keymap",
+		"/C/Users/v527695/AppData/Roaming/Sublime Text 2/Packages/Compare Side-By-Side/SBSCompare.sublime-settings"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"C:\\Users\\v527695\\Documents\\SVN\\trunk\\Ordering\\metadata\\",
+			"C:\\Users\\v527695\\Documents\\SVN\\trunk\\Ordering\\metadata\\svc\\cpe",
+			"C:\\Users\\v527695\\Documents\\SVN\\trunk\\Ordering\\metadata\\",
+			"C:\\Users\\v527695\\Documents\\SVN\\trunk\\Ordering\\metadata\\svc\\cpe",
+			"C:\\Users\\v527695\\Documents\\SVN\\trunk\\Ordering\\metadata\\",
+			"C:\\Users\\v527695\\Documents\\SVN\\trunk\\Ordering\\metadata\\svc\\cpe",
+			"C:\\Users\\v527695\\Documents\\SVN\\trunk\\Ordering\\metadata\\",
+			"C:\\Users\\v527695\\Documents\\SVN\\trunk\\Ordering\\metadata\\svc\\cpe",
+			"C:\\Users\\v527695\\Documents\\SVN\\trunk\\Ordering\\metadata\\",
+			"C:\\Users\\v527695\\Documents\\SVN\\trunk\\Ordering\\metadata\\svc\\mns",
+			"C:\\Users\\v527695\\Documents\\SVN\\trunk\\Ordering\\metadata\\svc\\cpe",
+			"C:\\Users\\v527695\\Documents\\SVN\\trunk\\Ordering\\metadata\\",
+			"C:\\Users\\v527695\\Documents\\SVN\\CW14MarMinor\\Ordering\\metadata\\",
+			"C:\\Users\\v527695\\Documents\\SVN\\CW14MarMinor\\Ordering\\metadata\\svc\\accessNew",
+			"C:\\Users\\v527695\\Documents\\SVN\\CW14MarMinor\\Ordering\\metadata\\svc\\cpe",
+			"C:\\Users\\v527695\\Documents\\SVN\\CW14MarMinor\\Ordering\\metadata\\",
+			"C:\\Users\\v527695\\Documents\\SVN\\CW14FebMinor - cpe",
+			"C:\\Users\\v527695\\Documents\\SVN\\CW14FebMinor\\Ordering\\metadata\\svc\\cpe",
+			"C:\\Users\\v527695\\Documents\\SVN\\CW14MarMinor\\Ordering\\metadata\\svc\\cpe",
+			"C:\\Users\\v527695\\Documents\\SVN\\CW14MarMinor\\Ordering\\metadata\\svc\\",
+			"C:\\Users\\v527695\\Documents\\SVN\\trunk\\Ordering\\metadata\\svc\\",
+			"C:\\Users\\v527695\\Documents\\SVN\\trunk\\Ordering\\metadata\\svc\\vce",
+			"C:\\Users\\v527695\\Documents\\SVN\\trunk\\Ordering\\metadata\\svc\\mns",
+			"C:\\Users\\v527695\\Documents\\SVN\\trunk\\Ordering\\metadata\\",
+			"C:\\Users\\v527695\\Documents\\SVN\\trunk\\Ordering\\metadata\\svc\\cpe",
+			"C:\\Users\\v527695\\Documents\\SVN\\trunk\\Ordering\\metadata\\",
+			"C:\\Users\\v527695\\Documents\\SVN\\PQ15NovMinor\\Ordering\\metadata\\svc\\voip",
+			"C:\\Users\\v527695\\Documents\\SVN\\PQ15NovMinor\\Ordering\\metadata\\e2ei",
+			"C:\\Users\\v527695\\Documents\\SVN\\trunk\\Ordering\\metadata\\e2ei",
+			"C:\\Users\\v527695\\Documents\\SVN\\trunk\\Ordering\\metadata\\svc\\pip",
+			"C:\\Users\\v527695\\Documents\\SVN\\trunk\\Ordering\\metadata\\e2ei\\external",
+			"C:\\Users\\v527695\\Documents\\SVN\\PQ15NovMinor\\Ordering\\metadata\\",
+			"C:\\Users\\v527695\\Documents\\SVN\\trunk\\Ordering\\metadata\\",
+			"C:\\Users\\v527695\\Documents\\SVN\\trunk\\Ordering\\metadata\\e2ei",
+			"C:\\Users\\v527695\\Documents\\SVN\\trunk\\Ordering\\metadata",
+			"C:/ConceptWave/Help/",
+			"C:\\Users\\v527695\\Desktop\\Unified Ordering-Quality Report-20150811-0622",
+			"C:\\Users\\v527695\\Documents\\SVN\\trunk\\Ordering\\metadata",
+			"C:\\Users\\v527695\\Documents\\SVN\\PQ15JuneMinor\\Ordering\\metadata",
+			"C:\\Users\\v527695\\Documents\\SVN\\trunk\\Ordering\\metadata",
+			"C:\\Users\\v527695\\AppData\\Roaming\\Sublime Text 2",
+			"C:\\ConceptWave",
+			"C:\\Users\\v527695\\Documents\\SVN\\trunk\\Ordering\\metadata",
+			"C:\\Users\\v527695\\AppData\\Roaming\\SQL Developer",
+			"C:\\Users\\v527695\\Documents\\SVN\\PQ15MayMinor\\Ordering\\metadata",
+			"C:\\Users\\v527695\\Documents\\SVN\\trunk\\Ordering\\metadata\\svc\\voip",
+			"C:\\Users\\v527695\\Documents\\SVN\\PQ15MayMinor\\Ordering\\metadata\\",
+			"C:\\Users\\v527695\\Documents\\SVN\\PQ15MayMinor\\Ordering\\metadata\\app",
+			"C:\\Users\\v527695\\Documents\\SVN\\PQ15MayMinor\\Ordering\\metadata\\",
+			"C:\\Users\\v527695\\Documents\\SVN\\PQ15MayMinor\\Ordering\\metadata\\svc\\wavelengthService",
+			"C:\\Users\\v527695\\Documents\\SVN\\PQ15MayMinor\\Ordering\\metadata\\svc\\voip",
+			"C:\\Users\\v527695\\Documents\\SVN\\PQ15MayMinor\\Ordering\\metadata",
+			"C:\\Users\\v527695\\Documents\\SVN\\PQ15MayMinor\\Ordering\\metadata\\svc\\voip",
+			"C:\\Users\\v527695\\Documents\\SVN\\PQ15AprilMajor\\Ordering\\metadata\\e2ei\\external",
+			"C:\\Users\\v527695\\Documents\\SVN\\PQ15AprilMajor\\Ordering\\metadata\\svc\\voip",
+			"C:\\Users\\v527695\\Documents\\SVN\\PQ15MayMinor\\Ordering\\metadata",
+			"<open files>",
+			"C:\\Users\\v527695\\Documents\\SVN\\PQ15MayMinor\\Ordering\\metadata\\e2ei\\external",
+			"C:\\Users\\v527695\\Documents\\SVN\\uno_db\\Database\\SQL\\Ordering\\2015Apr",
+			"C:\\Users\\v527695\\Documents\\SVN\\trunk\\Ordering\\metadata\\e2ei",
+			"C:\\Users\\v527695\\Documents\\SVN\\trunk\\Ordering\\metadata",
+			"C:\\Users\\v527695\\Documents\\SVN\\trunk\\Ordering\\metadata\\e2ei\\ovc",
+			"<open folders>",
+			"C:\\Users\\v527695\\Documents\\SVN\\trunk\\Ordering\\metadata\\svc\\wavelengthService",
+			"C:\\Users\\v527695\\Documents\\SVN\\trunk\\Ordering\\metadata\\e2ei\\external,C:\\Users\\v527695\\Documents\\SVN\\trunk\\Ordering\\metadata\\e2ei\\bulkUpload,C:\\Users\\v527695\\Documents\\SVN\\trunk\\Ordering\\metadata\\e2ei\\common",
+			"C:\\Users\\v527695\\Documents\\SVN\\R11 Minor\\Ordering\\metadata",
+			"C:\\Users\\v527695\\Desktop",
+			"C:\\Users\\v527695\\Documents\\SVN\\trunk\\Ordering\\metadata\\svc\\voip",
+			"C:\\Users\\v527695\\Documents\\SVN\\trunk\\Ordering\\metadata\\svc\\wavelengthService",
+			"C:\\Users\\v527695\\Documents\\SVN\\trunk\\Interfaces,C:\\Users\\v527695\\Documents\\SVN\\trunk\\Library",
+			"C:\\Users\\v527695\\Documents\\SVN\\trunk\\Ordering",
+			"C:\\Users\\v527695\\Documents\\SVN\\uno_db\\Database\\SQL\\Ordering",
+			"C:\\Users\\v527695\\Documents\\SVN\\uno_db\\Database\\SQL\\Ordering\\201408",
+			"C:\\Users\\v527695\\Documents\\SVN\\uno_db\\Database\\SQL"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"yaml",
+			"keyword.operator",
+			"punctuation\\.definition",
+			"cpeDetailsObject(\\.isCPEAlreadyBudgetary)?",
+			"cpeDetailsObject",
+			"isCpeBudgetary|cpeDetailsObject",
+			"isCpeBudgetary",
+			"cpeDetailsObject",
+			"isCpeBudgetary",
+			"cpeDetailsObject",
+			"isCpeB",
+			"cpeDetailsObject",
+			"isCpeBudgetary",
+			"cpeDetailsObject",
+			"isCPEAlreadyBudgetary",
+			"isCPESummaryAlreadyBudgetary",
+			"isCPEAlreadyBudgetary",
+			"\"",
+			".*?[\"']([^\"']+)[\"']",
+			".*[\"'][^\"'][\"']",
+			".*[\"']\\w+[\"']",
+			"Global.getCTCodesAndDescriptions(\"ECT_CPE_SITE_SERVICES\")",
+			"isViewMode",
+			"cpeBasketItem\\.catalogItem\\.attributeExists\\(\"ESP_IS_TEMPLATE_ELIGIBLE\"\\) \\? cpeBasketItem\\.ESP_IS_TEMPLATE_ELIGIBLE = \"(\\w+)\" \\: \"\";",
+			"cpeBasketItem.catalogItem.attributeExists(\"ESP\ncpeBasketItem\\.catalogItem\\.attributeExists\\(\"ESP_IS_TEMPLATE_ELIGIBLE\"\\) \\? cpeBasketItem\\.ESP_IS_TEMPLATE_ELIGIBLE = \"(\\w+)\" \\: \"\";",
+			"cpeBasketItem.catalogItem.attributeExists(\"ESP\ncpeBasketItem\\.catalogItem\\.attributeExists\\(\"ESP_IS_TEMPLATE_ELIGIBLE\"\\) \\? cpeBasketItem\\.ESP_IS_TEMPLATE_ELIGIBLE = \"(\\w+)\" : \"\";",
+			"cpeBasketItem.catalogItem.attributeExists(\"ESP\ncpeBasketItem\\.catalogItem\\.attributeExists\\(\"ESP_IS_TEMPLATE_ELIGIBLE\"\\) \\? cpeBasketItem\\.ESP_IS_TEMPLATE_ELIGIBLE = \"No\" : \"\";",
+			"this.parent.cpeConfigureUI",
+			"this",
+			"this[^\\.]",
+			"this[^.]",
+			"this.",
+			"this.parent.templatesDocUI",
+			".*(\\d+) service sites found.\"",
+			"result",
+			"editAdditionalMaintenanceServices",
+			"needCpeMaintenance",
+			"showadditionalmaint",
+			"mainten",
+			"method",
+			"triggerAddNewCpe",
+			"method",
+			"\\bi\\b",
+			"i",
+			"locationIndex",
+			"\"",
+			"^ \\+ .*\\n",
+			"\\+Pe0004: ",
+			">\\n",
+			"> JavaException.*$",
+			" ",
+			"\"$",
+			"\"?Script error message: \"(.*)\"?",
+			"serviceSitesArray",
+			"script",
+			"source.js.embedded.html",
+			"eltset",
+			"checkMatchingProduct",
+			"revalidationEnabled",
+			"On changing the Feature(s)/Association, CPE summary will stay intact. However, please visit CPE configuration screen to Revalidate the CPE template. Do you want to continue?",
+			"continueFunc",
+			"cpe",
+			"associated to more than one Service",
+			"this.parent.parent.content.parent.owner.model.controllerOwner.parent.parent",
+			"parent.parent",
+			"\\",
+			"c:/oraclexe/app/oracle/oradata/xe/",
+			"triggerCPEOption",
+			"triggerCpeOption",
+			"prevMessage",
+			"ESP_CPE_MQ_ADDED",
+			"ESP_MNS_MQ_ADDED",
+			"isSTDdate_Caller",
+			"cpeArray",
+			"solutionProductMap",
+			"ESP_VALIDATION_STATUS",
+			"statusmessage",
+			"basketItemIdCount",
+			"solutionItemArray",
+			"groupBasketItem",
+			"assoicatedProductName",
+			"assoicatedProductInstanceId",
+			"userAddedCpeBasketItemId",
+			"targetbasketitemid",
+			"assoicatedProductName",
+			"assoicatedProductInstanceId",
+			"siteDoc",
+			"USER_MESSAGE",
+			"statusmessage",
+			"hideLynxButtonUnmanaged",
+			"type=\"permMethod\"",
+			"showtemplat",
+			"permmeth",
+			"leaf_FALSE",
+			"h>ui_commo",
+			"leaf_FALSE",
+			"FALSE",
+			"ProdBasketItem",
+			"errors",
+			"email",
+			"continueFunction",
+			"No matching templates were found for your product configuration",
+			"Manual Configuration is chosen for this site",
+			"locName",
+			"siteDoc",
+			"smartSiteDoc",
+			"templateErrorList.ListOfErrors.Error",
+			"savePremisysError",
+			"containsErrors",
+			"isTestTemplate",
+			"isCPETemplateExisting",
+			"serviceSite",
+			"tempvalidate",
+			"\\((\\S+),",
+			", (\\S+)\\)",
+			", (\\S+),",
+			"\\.buildCpeTemplateRetrievalRequest",
+			"isBudgetary",
+			"siteprofil",
+			"DEF",
+			"DEF\\b",
+			"DEF",
+			"PRJ_",
+			"status",
+			"EXT_CPE_TEMPLATE",
+			"cpeItem",
+			"\"",
+			"usec"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"isCpeBudgetary",
+			"'",
+			"'\\1', ",
+			"codeDescArr",
+			"cpeBasketItem.ESP_IS_TEMPLATE_ELIGIBLE = '\\1';",
+			"this",
+			"this.parent",
+			"this.parent.",
+			"templatesUI",
+			"\\1",
+			"ss",
+			"locIndex",
+			"l",
+			"'",
+			"",
+			">",
+			"",
+			"\\1",
+			"serviceSites",
+			"summaryUI",
+			"/",
+			"C:\\Users\\v527695\\Oraclexe\\app\\oracle\\oradata\\XE\\",
+			"pr",
+			"productItems",
+			"solutionItem",
+			"associatedProductName",
+			"associatedProductInstanceId",
+			"associatedProductName",
+			"associatedProductInstanceId",
+			"accessProductItem",
+			"err",
+			"error",
+			"(\n\\1,",
+			",\n\\1,",
+			"ACT",
+			"productItem",
+			"'",
+			"serviceDetail",
+			"ESP_REVALIDATE_PENDING",
+			"', ",
+			"result",
+			"REVALIDATION_PENDING",
+			"', '",
+			"0:\\1:\\2",
+			"0:0:\\1",
+			"0:0",
+			"\\2:\\3",
+			"\\1:\\2:\\3",
+			"?",
+			"setParentCPE",
+			"siteProfileDoc",
+			"addressDoc",
+			"siteDoc",
+			"resultDoc",
+			"r",
+			"result",
+			"naspArr",
+			"\\1",
+			"\\\\n",
+			"\\n",
+			"isGCAValidForL2LSites",
+			"order",
+			"siteProfileDoc",
+			"c",
+			"this",
+			"dataDoc.\\1 = \\2;",
+			"custAddressDoc",
+			"dataType",
+			"resultDoc",
+			"result",
+			"'",
+			"uno_ext_premisys_trans_data",
+			"cpeInfo",
+			"i",
+			"result",
+			"dataList",
+			"cpeBasketItem",
+			"\\1",
+			"hideActions",
+			"serviceSiteDoc",
+			"s",
+			"order",
+			"siteRow",
+			"ss",
+			"s",
+			"serviceSiteDoc",
+			"",
+			"contractLabels",
+			"updateActiveTransLog",
+			"contractTypeCounts",
+			"contractTypeMap",
+			"contractTypes",
+			"resultSiteProfileDoc",
+			"siteDoc",
+			"resultSiteProfileDoc",
+			"inputDoc",
+			"billingMethodArr",
+			"siteInstanceArr",
+			"this.activeTransactionLog",
+			"activeTransLogs",
+			"activeTransLog",
+			"getActiveTransLog",
+			"activeTransactionLog",
+			"\\1",
+			"PREM_LOGS",
+			"'",
+			"sqlQuery += ",
+			"    + ",
+			"order",
+			"validationErrors",
+			"MessageType",
+			"    case \"\\2\":\\3        break;\\n",
+			"action",
+			",\\n",
+			"addressDoc.country",
+			"addressDoc.addressLine2",
+			"addressDoc.state",
+			"addressDoc.city",
+			"addressDoc.zipCode",
+			"addressDoc.addressLine1",
+			"siteDoc.siteId",
+			",\nsiteDoc.siteId",
+			",\n",
+			"productItem",
+			"productBasketItem",
+			"existingRelations",
+			"targetRelations",
+			"res"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 8,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "lexer.py",
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/C/Users/v527695/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+					"settings":
+					{
+						"buffer_size": 559,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								512,
+								512
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PackageDev/Syntax Definitions/Sublime Settings.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/C/Users/v527695/AppData/Roaming/Sublime Text 2/Packages/User/Default (Windows).sublime-keymap",
+					"settings":
+					{
+						"buffer_size": 2194,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								691,
+								691
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PackageDev/Syntax Definitions/Sublime Key Map.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/C/Users/v527695/Sublime Text 3/Data/Packages/JavaScript/syntax_test_json.json",
+					"settings":
+					{
+						"buffer_size": 1177,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/C/Users/v527695/AppData/Roaming/Sublime Text 2/Packages/PackageDev/Syntax Definitions/Sublime Text Syntax Def (YAML).tmLanguage",
+					"settings":
+					{
+						"buffer_size": 37869,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								246,
+								246
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/XML/XML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/C/Users/v527695/AppData/Roaming/Sublime Text 2/Packages/PackageDev/Syntax Definitions/Sublime Text Syntax Def (YAML).YAML-tmLanguage",
+					"settings":
+					{
+						"buffer_size": 18464,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2663,
+								2663
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PackageDev/Syntax Definitions/Sublime Text Syntax Def (YAML).tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1224.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "/C/Users/v527695/Sublime Text 3/Data/Packages/Color Scheme - Default/Blackbird.tmTheme",
+					"settings":
+					{
+						"buffer_size": 12562,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								10169,
+								10169
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/XML/XML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 7474.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"settings":
+					{
+						"buffer_size": 2662,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1449,
+								1449
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "/C/Users/v527695/Sublime Text 3/Data/Packages/Python/Python.sublime-build",
+					"settings":
+					{
+						"buffer_size": 273,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PackageDev/Syntax Definitions/Sublime Text Build System.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "notes.txt",
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.aaa_package_dev":
+	{
+		"height": 118.0
+	},
+	"output.exec":
+	{
+		"height": 254.0
+	},
+	"output.git":
+	{
+		"height": 118.0
+	},
+	"output.package_dev":
+	{
+		"height": 118.0
+	},
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true
+}

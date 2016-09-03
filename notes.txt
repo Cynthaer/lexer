@@ -1,0 +1,11 @@
+-	lexer (lexical analyzer)
+	-	divides string into tokens, filters out separators (white space, comments)
+	-	make things easier for syntax analysis phase
+		-	efficiency: may be faster and smaller than combining with syntax analysis
+		-	modularity: unclutter syntax definition with whitespace, etc.
+		-	tradition: languages often designed with expectation of separate phases, documented accordingly
+	-	generally created by lexer generators, which translate specs into programs
+
+-	regex
+	-	L(s) = language described by regex s
+	
